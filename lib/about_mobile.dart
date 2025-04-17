@@ -18,7 +18,7 @@ class _AboutMobileState extends State<AboutMobile> {
           children: [
             Text(
               "About Mobile",
-              style: TextStyle(fontSize: 41.0),
+              style: TextStyle(fontSize: 40.0),
             ),
             Text(
               "Argument ${widget.str.toString()}",
